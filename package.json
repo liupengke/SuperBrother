@@ -1,0 +1,22 @@
+{
+  "name": "superbrother",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liupengke/SuperBrother.git"
+  },
+  "author": "poker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liupengke/SuperBrother/issues"
+  },
+  "homepage": "https://github.com/liupengke/SuperBrother#readme",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
